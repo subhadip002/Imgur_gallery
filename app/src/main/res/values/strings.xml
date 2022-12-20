@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imgur gallery</string>
+    <string name="action_list_order">List</string>
+    <string name="action_grid_order">Grid</string>
+</resources>
